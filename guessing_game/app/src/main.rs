@@ -83,7 +83,7 @@ fn main() {
     let mut retval:bool = false;
 	
     //for _cpt in 0..maxnum+2{
-    for _cpt in 0..maxnum+2{
+    for _cpt in 0..maxnum{
 	
   	println!("enter a guess value:");
 	let mut guess = String::new();
